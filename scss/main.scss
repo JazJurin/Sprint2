@@ -12,8 +12,11 @@ $container-max-widths: (
   lg: 960px,
   xl: 960px,
   xxl: 960px
-)
-
+);
+.card-extension {
+    border: none;
+    
+}
 
 @import "../node_modules/bootstrap/scss/bootstrap.scss";
 
